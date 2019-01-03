@@ -1,0 +1,1 @@
+# 26.penjumlahan-deretan-ganjil
